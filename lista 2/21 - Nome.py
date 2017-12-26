@@ -1,0 +1,5 @@
+print('    MMM    MMM            A      TTTTTTTTTTTT   EEEEEEEE    U     U       SSSSSSS')
+print('   M  M   M   M          A A          T         E           U     U      SS')
+print('  M   M  M     M        A   A         T         EEEEEEEE    U     U       SSSSSSS')
+print(' M    M M       M      AAAAAAA        T         E           U     U             SS')
+print('M     MM         M    A       A       T         EEEEEEEE    UUUUUUU       SSSSSSS')
